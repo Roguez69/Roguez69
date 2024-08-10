@@ -1,22 +1,44 @@
-# Mi Proyecto Genial
+🌟 ¡Hola, soy Jhosymar Cortes Rodriguez! 🌟
 
-**Descripción:**
-Este proyecto es una aplicación web que permite a los usuarios [función principal].
+¡Bienvenido a mi rincón de creatividad y código! 👩‍💻🚀
 
-**Tecnologías:**
-* **Frontend:** React, JavaScript, CSS
-* **Backend:** Node.js, Express.js
-* **Base de datos:** MongoDB
+🌍 Sobre mí
 
-**[![JavaScript](https://img.shields.io/badge/javascript-brightgreen)](https://www.javascript.com/)**
-**[![Node.js](https://img.shields.io/badge/Node.js-green)](https://nodejs.org/)**
-**[![MongoDB](https://img.shields.io/badge/MongoDB-green)](https://www.mongodb.com/)**
+Soy un desarrollador apasionado por la tecnología, la innovación, y el aprendizaje continuo. Mi especialidad es crear soluciones que no solo funcionen, sino que también sean elegantes y eficientes.
 
-**Demo:**
-[Enlace a la demo]
+	•	🎨 Creativo por naturaleza: Siempre en busca de nuevas formas de resolver problemas.
+	•	🧠 Curioso insaciable: Me encanta aprender sobre nuevas tecnologías y metodologías.
+	•	🛠️ Constructores de sueños: Transformo ideas en realidades digitales.
 
-**Contribuir:**
-Si quieres contribuir a este proyecto, por favor, [instrucciones].
+💼 Proyectos Destacados
 
-**Licencia:**
-Este proyecto está bajo la licencia [nombre de la licencia].
+📊 Proyecto Angular con AdminLTE
+
+Un sistema de gestión con estadísticas, gestión de usuarios y mucho más, construido con Angular y AdminLTE.
+
+📝 Manual de Usuario para Herramienta de Gestión de Riesgos
+
+Una guía detallada y visualmente atractiva para ayudar a los usuarios a dominar nuestra herramienta de simulación de riesgos.
+
+📈 Generación de PDF con Chart.js
+
+Un módulo que integra Chart.js en Angular para crear y exportar reportes en formato PDF.
+
+🛠️ Tecnologías y Herramientas
+
+	•	Lenguajes: JavaScript, TypeScript, HTML, CSS
+	•	Frameworks: Angular
+	•	Herramientas: Git, AdminLTE, Chart.js
+
+🎯 En qué estoy trabajando ahora
+
+
+📫 ¡Hablemos!
+
+¿Tienes una idea en mente o un proyecto desafiante? ¡Estoy abierto a nuevas oportunidades y colaboraciones! Puedes contactarme a través de LinkedIn o enviar un correo a cortesjhosymar@gmail.com.
+
+🌈 Filosofía de Trabajo
+
+Me gusta mantener las cosas simples, eficientes y creativas. Cada proyecto es una oportunidad para innovar y aprender algo nuevo. Creo que el código es una forma de arte, y me esfuerzo por escribir código que sea tan limpio como funcional.
+
+Gracias por visitar mi perfil. ¡Espero que disfrutes explorando mis proyectos tanto como yo disfruté creándolos! 😊
